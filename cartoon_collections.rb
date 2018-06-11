@@ -20,3 +20,5 @@ def find_the_cheese# code an argument here
   cheese_types.find do |word|
   end
 end
+
+find_the_cheese
